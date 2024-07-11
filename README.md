@@ -1,2 +1,2 @@
 # Weather-App
-This is not mine, my friend Taslima Akter Joty made this.
+This my first android application. It is an API based application.
